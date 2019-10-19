@@ -1,0 +1,964 @@
+ 
+ at ntime=           1    the dimensional timestep was
+ poldt       =  4.285646150397174E-003
+ 
+ 
+ at ntime=          22    the dimensional timestep was
+ nfdt        =  3.809947637753847E-003
+ 
+ 
+ at ntime=         136    the dimensional timestep was
+ poldt       =  2.707696545926117E-003
+ 
+ 
+ at ntime=         142    the dimensional timestep was
+ nfdt        =  2.667647637133340E-003
+ 
+ 
+ at ntime=         199    the dimensional timestep was
+ poldt       =  2.353026559829788E-003
+ 
+ 
+ at ntime=         330    the dimensional timestep was
+ nfdt        =  1.862427730895690E-003
+ 
+ 
+ at ntime=         348    the dimensional timestep was
+ poldt       =  1.818235687276248E-003
+ 
+ 
+ at ntime=        7251    the dimensional timestep was
+ nfdt        =  1.434911543480071E-003
+ 
+ 
+ at ntime=        7253    the dimensional timestep was
+ poldt       =  1.435809345449836E-003
+ 
+ 
+ at ntime=        7254    the dimensional timestep was
+ nfdt        =  1.430771745180503E-003
+ 
+ 
+ at ntime=        7258    the dimensional timestep was
+ poldt       =  1.435349870564814E-003
+ 
+ 
+ at ntime=       10312    the dimensional timestep was
+ nfdt        =  1.425536451249291E-003
+ 
+ 
+ at ntime=       10340    the dimensional timestep was
+ poldt       =  1.425884389657347E-003
+ 
+ 
+ at ntime=       10921    the dimensional timestep was
+ nfdt        =  1.425559712028575E-003
+ 
+ 
+ at ntime=       10940    the dimensional timestep was
+ poldt       =  1.423373769325018E-003
+ 
+ 
+ at ntime=       14413    the dimensional timestep was
+ nfdt        =  1.385291544731099E-003
+ 
+ 
+ at ntime=       14469    the dimensional timestep was
+ poldt       =  1.403259659644664E-003
+ 
+ 
+ at ntime=       14471    the dimensional timestep was
+ nfdt        =  1.400182341020958E-003
+ 
+ 
+ at ntime=       14473    the dimensional timestep was
+ poldt       =  1.402923156331447E-003
+ 
+ 
+ at ntime=       14513    the dimensional timestep was
+ nfdt        =  1.391831564482509E-003
+ 
+ 
+ at ntime=       14569    the dimensional timestep was
+ poldt       =  1.403448131867200E-003
+ 
+ 
+ at ntime=       16667    the dimensional timestep was
+ nfdt        =  1.439722025095198E-003
+ 
+ 
+ at ntime=       16715    the dimensional timestep was
+ poldt       =  1.435923088072245E-003
+ 
+ 
+ at ntime=       20001    the dimensional timestep was
+ poldt       =  1.432211559352459E-003
+ 
+ 
+ at ntime=       21787    the dimensional timestep was
+ nfdt        =  1.401784567608719E-003
+ 
+ 
+ at ntime=       21800    the dimensional timestep was
+ poldt       =  1.402293066433552E-003
+ 
+ 
+ at ntime=       27647    the dimensional timestep was
+ nfdt        =  1.403953910932730E-003
+ 
+ 
+ at ntime=       27702    the dimensional timestep was
+ poldt       =  1.405492539541395E-003
+ 
+ 
+ at ntime=       29001    the dimensional timestep was
+ poldt       =  1.374286940704007E-003
+ 
+ 
+ at ntime=       34166    the dimensional timestep was
+ nfdt        =  1.439021024427296E-003
+ 
+ 
+ at ntime=       34189    the dimensional timestep was
+ poldt       =  1.442100846174064E-003
+ 
+ 
+ at ntime=       39001    the dimensional timestep was
+ poldt       =  1.394017042008212E-003
+ 
+ 
+ at ntime=       42762    the dimensional timestep was
+ nfdt        =  1.448774072662735E-003
+ 
+ 
+ at ntime=       42902    the dimensional timestep was
+ poldt       =  1.436305135100625E-003
+ 
+ 
+ at ntime=       48123    the dimensional timestep was
+ nfdt        =  1.382906825178592E-003
+ 
+ 
+ at ntime=       48139    the dimensional timestep was
+ poldt       =  1.380509334440381E-003
+ 
+ 
+ at ntime=       48235    the dimensional timestep was
+ nfdt        =  1.359568755132672E-003
+ 
+ 
+ at ntime=       48269    the dimensional timestep was
+ poldt       =  1.359628162220432E-003
+ 
+ 
+ at ntime=       52101    the dimensional timestep was
+ nfdt        =  1.363000499820797E-003
+ 
+ 
+ at ntime=       52104    the dimensional timestep was
+ poldt       =  1.364468737507639E-003
+ 
+ 
+ at ntime=       53145    the dimensional timestep was
+ nfdt        =  1.332473226383212E-003
+ 
+ 
+ at ntime=       53163    the dimensional timestep was
+ poldt       =  1.342410766534935E-003
+ 
+ 
+ at ntime=       57118    the dimensional timestep was
+ nfdt        =  1.415195890804744E-003
+ 
+ 
+ at ntime=       57143    the dimensional timestep was
+ poldt       =  1.432185968379561E-003
+ 
+ 
+ at ntime=       60952    the dimensional timestep was
+ nfdt        =  1.458977881496986E-003
+ 
+ 
+ at ntime=       61008    the dimensional timestep was
+ poldt       =  1.460914794592425E-003
+ 
+ 
+ at ntime=       63662    the dimensional timestep was
+ nfdt        =  1.506558473296541E-003
+ 
+ 
+ at ntime=       63698    the dimensional timestep was
+ poldt       =  1.507418071261398E-003
+ 
+ 
+ at ntime=       64011    the dimensional timestep was
+ nfdt        =  1.477691803377006E-003
+ 
+ 
+ at ntime=       64012    the dimensional timestep was
+ poldt       =  1.487767917253462E-003
+ 
+ 
+ at ntime=       64019    the dimensional timestep was
+ nfdt        =  1.485746699534367E-003
+ 
+ 
+ at ntime=       64020    the dimensional timestep was
+ poldt       =  1.487064280704582E-003
+ 
+ 
+ at ntime=       64021    the dimensional timestep was
+ nfdt        =  1.475658731139486E-003
+ 
+ 
+ at ntime=       64031    the dimensional timestep was
+ poldt       =  1.486088949911279E-003
+ 
+ 
+ at ntime=       64033    the dimensional timestep was
+ nfdt        =  1.480561501645916E-003
+ 
+ 
+ at ntime=       64034    the dimensional timestep was
+ poldt       =  1.485821804690878E-003
+ 
+ 
+ at ntime=       64045    the dimensional timestep was
+ nfdt        =  1.484466497340741E-003
+ 
+ 
+ at ntime=       64107    the dimensional timestep was
+ poldt       =  1.475613770210586E-003
+ 
+ 
+ at ntime=       64240    the dimensional timestep was
+ nfdt        =  1.438354467260839E-003
+ 
+ 
+ at ntime=       64265    the dimensional timestep was
+ poldt       =  1.432478028647656E-003
+ 
+ 
+ at ntime=       69001    the dimensional timestep was
+ poldt       =  1.433589469456559E-003
+ 
+ 
+ at ntime=       69650    the dimensional timestep was
+ nfdt        =  1.407055957794140E-003
+ 
+ 
+ at ntime=       69679    the dimensional timestep was
+ poldt       =  1.407218594029174E-003
+ 
+ 
+ at ntime=       69812    the dimensional timestep was
+ nfdt        =  1.391518052925254E-003
+ 
+ 
+ at ntime=       69848    the dimensional timestep was
+ poldt       =  1.396837798235935E-003
+ 
+ 
+ at ntime=       69878    the dimensional timestep was
+ nfdt        =  1.394314695230110E-003
+ 
+ 
+ at ntime=       69880    the dimensional timestep was
+ poldt       =  1.394905615188980E-003
+ 
+ 
+ at ntime=       69884    the dimensional timestep was
+ nfdt        =  1.394466235760357E-003
+ 
+ 
+ at ntime=       69896    the dimensional timestep was
+ poldt       =  1.394040985735848E-003
+ 
+ 
+ at ntime=       69908    the dimensional timestep was
+ nfdt        =  1.391153902048488E-003
+ 
+ 
+ at ntime=       69939    the dimensional timestep was
+ poldt       =  1.390776086088599E-003
+ 
+ 
+ at ntime=       69972    the dimensional timestep was
+ nfdt        =  1.364666130758405E-003
+ 
+ 
+ at ntime=       69988    the dimensional timestep was
+ poldt       =  1.383000571760321E-003
+ 
+ 
+ at ntime=       72196    the dimensional timestep was
+ nfdt        =  1.363907478537805E-003
+ 
+ 
+ at ntime=       72200    the dimensional timestep was
+ poldt       =  1.364273057589690E-003
+ 
+ 
+ at ntime=       77014    the dimensional timestep was
+ nfdt        =  1.432105753098756E-003
+ 
+ 
+ at ntime=       77047    the dimensional timestep was
+ poldt       =  1.434313303331546E-003
+ 
+ 
+ at ntime=       77126    the dimensional timestep was
+ nfdt        =  1.427243209380466E-003
+ 
+ 
+ at ntime=       77153    the dimensional timestep was
+ poldt       =  1.425947546375750E-003
+ 
+ 
+ at ntime=       77442    the dimensional timestep was
+ nfdt        =  1.399677398411960E-003
+ 
+ 
+ at ntime=       77509    the dimensional timestep was
+ poldt       =  1.394174798429225E-003
+ 
+ 
+ at ntime=       77524    the dimensional timestep was
+ nfdt        =  1.392420155077231E-003
+ 
+ 
+ at ntime=       77526    the dimensional timestep was
+ poldt       =  1.393249796418524E-003
+ 
+ 
+ at ntime=       77527    the dimensional timestep was
+ nfdt        =  1.390764066533009E-003
+ 
+ 
+ at ntime=       77529    the dimensional timestep was
+ poldt       =  1.393135641858318E-003
+ 
+ 
+ at ntime=       77531    the dimensional timestep was
+ nfdt        =  1.392621278635372E-003
+ 
+ 
+ at ntime=       77532    the dimensional timestep was
+ poldt       =  1.393031099080864E-003
+ 
+ 
+ at ntime=       77844    the dimensional timestep was
+ nfdt        =  1.387914569337246E-003
+ 
+ 
+ at ntime=       77882    the dimensional timestep was
+ poldt       =  1.391052140196904E-003
+ 
+ 
+ at ntime=       78057    the dimensional timestep was
+ nfdt        =  1.400403143474813E-003
+ 
+ 
+ at ntime=       78062    the dimensional timestep was
+ poldt       =  1.406107430288256E-003
+ 
+ 
+ at ntime=       78063    the dimensional timestep was
+ nfdt        =  1.405616916369998E-003
+ 
+ 
+ at ntime=       78064    the dimensional timestep was
+ poldt       =  1.406212868018307E-003
+ 
+ 
+ at ntime=       78184    the dimensional timestep was
+ nfdt        =  1.420711937516889E-003
+ 
+ 
+ at ntime=       78214    the dimensional timestep was
+ poldt       =  1.428768426045459E-003
+ 
+ 
+ at ntime=       79100    the dimensional timestep was
+ nfdt        =  1.438255590277975E-003
+ 
+ 
+ at ntime=       79149    the dimensional timestep was
+ poldt       =  1.425540665471500E-003
+ 
+ 
+ at ntime=       81570    the dimensional timestep was
+ nfdt        =  1.388724777809636E-003
+ 
+ 
+ at ntime=       81609    the dimensional timestep was
+ poldt       =  1.391240067727185E-003
+ 
+ 
+ at ntime=       84911    the dimensional timestep was
+ nfdt        =  1.401388894316489E-003
+ 
+ 
+ at ntime=       84954    the dimensional timestep was
+ poldt       =  1.405252562440725E-003
+ 
+ 
+ at ntime=       86116    the dimensional timestep was
+ nfdt        =  1.494248051521807E-003
+ 
+ 
+ at ntime=       86160    the dimensional timestep was
+ poldt       =  1.502720293727292E-003
+ 
+ 
+ at ntime=       86347    the dimensional timestep was
+ nfdt        =  1.490175165769959E-003
+ 
+ 
+ at ntime=       86387    the dimensional timestep was
+ poldt       =  1.488716664418473E-003
+ 
+ 
+ at ntime=       86447    the dimensional timestep was
+ nfdt        =  1.480811283599937E-003
+ 
+ 
+ at ntime=       86484    the dimensional timestep was
+ poldt       =  1.478549644917446E-003
+ 
+ 
+ at ntime=       86485    the dimensional timestep was
+ nfdt        =  1.475830840161541E-003
+ 
+ 
+ at ntime=       86487    the dimensional timestep was
+ poldt       =  1.477948523389626E-003
+ 
+ 
+ at ntime=       86530    the dimensional timestep was
+ nfdt        =  1.467543737695296E-003
+ 
+ 
+ at ntime=       86531    the dimensional timestep was
+ poldt       =  1.467368262877994E-003
+ 
+ 
+ at ntime=       86853    the dimensional timestep was
+ nfdt        =  1.403988594254768E-003
+ 
+ 
+ at ntime=       86891    the dimensional timestep was
+ poldt       =  1.401623453010719E-003
+ 
+ 
+ at ntime=       87542    the dimensional timestep was
+ nfdt        =  1.317847715518241E-003
+ 
+ 
+ at ntime=       87558    the dimensional timestep was
+ poldt       =  1.320220350983120E-003
+ 
+ 
+ at ntime=       87913    the dimensional timestep was
+ nfdt        =  1.320088098538898E-003
+ 
+ 
+ at ntime=       87958    the dimensional timestep was
+ poldt       =  1.329511227955153E-003
+ 
+ 
+ at ntime=       88129    the dimensional timestep was
+ nfdt        =  1.343899309571805E-003
+ 
+ 
+ at ntime=       88191    the dimensional timestep was
+ poldt       =  1.348394323993092E-003
+ 
+ 
+ at ntime=      100564    the dimensional timestep was
+ nfdt        =  1.423536724452870E-003
+ 
+ 
+ at ntime=      100584    the dimensional timestep was
+ poldt       =  1.422743326028520E-003
+ 
+ 
+ at ntime=      103298    the dimensional timestep was
+ nfdt        =  1.406741364376892E-003
+ 
+ 
+ at ntime=      103336    the dimensional timestep was
+ poldt       =  1.414320511753998E-003
+ 
+ 
+ at ntime=      103337    the dimensional timestep was
+ nfdt        =  1.407692153692138E-003
+ 
+ 
+ at ntime=      103339    the dimensional timestep was
+ poldt       =  1.414477349804948E-003
+ 
+ 
+ at ntime=      105487    the dimensional timestep was
+ nfdt        =  1.401581913586030E-003
+ 
+ 
+ at ntime=      105508    the dimensional timestep was
+ poldt       =  1.407783399459854E-003
+ 
+ 
+ at ntime=      105657    the dimensional timestep was
+ nfdt        =  1.409789794206523E-003
+ 
+ 
+ at ntime=      105658    the dimensional timestep was
+ poldt       =  1.412000701759565E-003
+ 
+ 
+ at ntime=      105660    the dimensional timestep was
+ nfdt        =  1.400722818351462E-003
+ 
+ 
+ at ntime=      105712    the dimensional timestep was
+ poldt       =  1.411554970104853E-003
+ 
+ 
+ at ntime=      111992    the dimensional timestep was
+ nfdt        =  1.444129455368035E-003
+ 
+ 
+ at ntime=      112016    the dimensional timestep was
+ poldt       =  1.448595808212750E-003
+ 
+ 
+ at ntime=      112017    the dimensional timestep was
+ nfdt        =  1.447382199373567E-003
+ 
+ 
+ at ntime=      112018    the dimensional timestep was
+ poldt       =  1.448507451782616E-003
+ 
+ 
+ at ntime=      119722    the dimensional timestep was
+ nfdt        =  1.454044866228868E-003
+ 
+ 
+ at ntime=      119730    the dimensional timestep was
+ poldt       =  1.454970890988861E-003
+ 
+ 
+ at ntime=      119755    the dimensional timestep was
+ nfdt        =  1.447464688159120E-003
+ 
+ 
+ at ntime=      119782    the dimensional timestep was
+ poldt       =  1.451647069022989E-003
+ 
+ 
+ at ntime=      120075    the dimensional timestep was
+ nfdt        =  1.430211284265297E-003
+ 
+ 
+ at ntime=      120094    the dimensional timestep was
+ poldt       =  1.430731256516537E-003
+ 
+ 
+ at ntime=      123751    the dimensional timestep was
+ nfdt        =  1.415059034405589E-003
+ 
+ 
+ at ntime=      123774    the dimensional timestep was
+ poldt       =  1.420784122193519E-003
+ 
+ 
+ at ntime=      124647    the dimensional timestep was
+ nfdt        =  1.444768137203169E-003
+ 
+ 
+ at ntime=      124736    the dimensional timestep was
+ poldt       =  1.440079623546889E-003
+ 
+ 
+ at ntime=      124785    the dimensional timestep was
+ nfdt        =  1.432394919858816E-003
+ 
+ 
+ at ntime=      124832    the dimensional timestep was
+ poldt       =  1.427535220826690E-003
+ 
+ 
+ at ntime=      125202    the dimensional timestep was
+ nfdt        =  1.415706777996987E-003
+ 
+ 
+ at ntime=      125204    the dimensional timestep was
+ poldt       =  1.416570873061787E-003
+ 
+ 
+ at ntime=      125205    the dimensional timestep was
+ nfdt        =  1.414398782431142E-003
+ 
+ 
+ at ntime=      125212    the dimensional timestep was
+ poldt       =  1.416338634283634E-003
+ 
+ 
+ at ntime=      125213    the dimensional timestep was
+ nfdt        =  1.415187125863490E-003
+ 
+ 
+ at ntime=      125218    the dimensional timestep was
+ poldt       =  1.416149586070757E-003
+ 
+ 
+ at ntime=      125220    the dimensional timestep was
+ nfdt        =  1.413948172470988E-003
+ 
+ 
+ at ntime=      125221    the dimensional timestep was
+ poldt       =  1.416051829422584E-003
+ 
+ 
+ at ntime=      126258    the dimensional timestep was
+ nfdt        =  1.403324570886393E-003
+ 
+ 
+ at ntime=      126294    the dimensional timestep was
+ poldt       =  1.407417145571491E-003
+ 
+ 
+ at ntime=      131677    the dimensional timestep was
+ nfdt        =  1.454322716927834E-003
+ 
+ 
+ at ntime=      131691    the dimensional timestep was
+ poldt       =  1.457912456183478E-003
+ 
+ 
+ at ntime=      131805    the dimensional timestep was
+ nfdt        =  1.464532767956918E-003
+ 
+ 
+ at ntime=      131823    the dimensional timestep was
+ poldt       =  1.467691079423348E-003
+ 
+ 
+ at ntime=      131825    the dimensional timestep was
+ nfdt        =  1.454200159296184E-003
+ 
+ 
+ at ntime=      131829    the dimensional timestep was
+ poldt       =  1.468134132871075E-003
+ 
+ 
+ at ntime=      132365    the dimensional timestep was
+ nfdt        =  1.493495924717949E-003
+ 
+ 
+ at ntime=      132374    the dimensional timestep was
+ poldt       =  1.494299827096268E-003
+ 
+ 
+ at ntime=      133488    the dimensional timestep was
+ nfdt        =  1.308561115123994E-003
+ 
+ 
+ at ntime=      133532    the dimensional timestep was
+ poldt       =  1.317148018479019E-003
+ 
+ 
+ at ntime=      133533    the dimensional timestep was
+ nfdt        =  1.315903087258463E-003
+ 
+ 
+ at ntime=      133534    the dimensional timestep was
+ poldt       =  1.317131223174872E-003
+ 
+ 
+ at ntime=      134029    the dimensional timestep was
+ nfdt        =  1.392227095076645E-003
+ 
+ 
+ at ntime=      134030    the dimensional timestep was
+ poldt       =  1.392878568340887E-003
+ 
+ 
+ at ntime=      134032    the dimensional timestep was
+ nfdt        =  1.381660895066624E-003
+ 
+ 
+ at ntime=      134033    the dimensional timestep was
+ poldt       =  1.393359318539047E-003
+ 
+ 
+ at ntime=      134036    the dimensional timestep was
+ nfdt        =  1.393211528059457E-003
+ 
+ 
+ at ntime=      134038    the dimensional timestep was
+ poldt       =  1.394170395631558E-003
+ 
+ 
+ at ntime=      134039    the dimensional timestep was
+ nfdt        =  1.381255378919909E-003
+ 
+ 
+ at ntime=      134040    the dimensional timestep was
+ poldt       =  1.394497049097201E-003
+ 
+ 
+ at ntime=      134042    the dimensional timestep was
+ nfdt        =  1.393941952881897E-003
+ 
+ 
+ at ntime=      134043    the dimensional timestep was
+ poldt       =  1.394993768967120E-003
+ 
+ 
+ at ntime=      135039    the dimensional timestep was
+ nfdt        =  1.463043503267803E-003
+ 
+ 
+ at ntime=      135131    the dimensional timestep was
+ poldt       =  1.456294908240308E-003
+ 
+ 
+ at ntime=      135571    the dimensional timestep was
+ nfdt        =  1.406132836564625E-003
+ 
+ 
+ at ntime=      135691    the dimensional timestep was
+ poldt       =  1.381688265661289E-003
+ 
+ 
+ at ntime=      139193    the dimensional timestep was
+ nfdt        =  1.426416621965444E-003
+ 
+ 
+ at ntime=      139195    the dimensional timestep was
+ poldt       =  1.427255830378987E-003
+ 
+ 
+ at ntime=      139199    the dimensional timestep was
+ nfdt        =  1.425696326305046E-003
+ 
+ 
+ at ntime=      139200    the dimensional timestep was
+ poldt       =  1.426461823281289E-003
+ 
+ 
+ at ntime=      143644    the dimensional timestep was
+ nfdt        =  1.389875665783915E-003
+ 
+ 
+ at ntime=      143656    the dimensional timestep was
+ poldt       =  1.401903366515478E-003
+ 
+ 
+ at ntime=      146600    the dimensional timestep was
+ nfdt        =  1.446143376847505E-003
+ 
+ 
+ at ntime=      146676    the dimensional timestep was
+ poldt       =  1.450205259680140E-003
+ 
+ 
+ at ntime=      146677    the dimensional timestep was
+ nfdt        =  1.447949665712687E-003
+ 
+ 
+ at ntime=      146678    the dimensional timestep was
+ poldt       =  1.450371612842141E-003
+ 
+ 
+ at ntime=      146001    the dimensional timestep was
+ poldt       =  1.395857402279907E-003
+ 
+ 
+ at ntime=      146002    the dimensional timestep was
+ poldt       =  1.395926048597650E-003
+ 
+ 
+ at ntime=      146003    the dimensional timestep was
+ poldt       =  1.395994056177050E-003
+ 
+ 
+ at ntime=      146004    the dimensional timestep was
+ poldt       =  1.396061364315359E-003
+ 
+ 
+ at ntime=      146005    the dimensional timestep was
+ poldt       =  1.396127911177163E-003
+ 
+ 
+ at ntime=      146600    the dimensional timestep was
+ nfdt        =  1.446143376847505E-003
+ 
+ 
+ at ntime=      146676    the dimensional timestep was
+ poldt       =  1.450205259680140E-003
+ 
+ 
+ at ntime=      146677    the dimensional timestep was
+ nfdt        =  1.447949665712687E-003
+ 
+ 
+ at ntime=      146678    the dimensional timestep was
+ poldt       =  1.450371612842141E-003
+ 
+ 
+ at ntime=      147866    the dimensional timestep was
+ nfdt        =  1.489378485785534E-003
+ 
+ 
+ at ntime=      147933    the dimensional timestep was
+ poldt       =  1.498141966942553E-003
+ 
+ 
+ at ntime=      148141    the dimensional timestep was
+ nfdt        =  1.461633139369773E-003
+ 
+ 
+ at ntime=      148164    the dimensional timestep was
+ poldt       =  1.460620931983020E-003
+ 
+ 
+ at ntime=      152309    the dimensional timestep was
+ nfdt        =  1.476180018656666E-003
+ 
+ 
+ at ntime=      152398    the dimensional timestep was
+ poldt       =  1.461108613541621E-003
+ 
+ 
+ at ntime=      153337    the dimensional timestep was
+ nfdt        =  1.278585971269506E-003
+ 
+ 
+ at ntime=      153341    the dimensional timestep was
+ poldt       =  1.279434022601943E-003
+ 
+ 
+ at ntime=      158613    the dimensional timestep was
+ nfdt        =  1.442330215471734E-003
+ 
+ 
+ at ntime=      158672    the dimensional timestep was
+ poldt       =  1.443277390647515E-003
+ 
+ 
+ at ntime=      159123    the dimensional timestep was
+ nfdt        =  1.369744321056570E-003
+ 
+ 
+ at ntime=      159124    the dimensional timestep was
+ poldt       =  1.371014389548516E-003
+ 
+ 
+ at ntime=      160667    the dimensional timestep was
+ nfdt        =  1.423316674621614E-003
+ 
+ 
+ at ntime=      160730    the dimensional timestep was
+ poldt       =  1.416625205174922E-003
+ 
+ 
+ at ntime=      160731    the dimensional timestep was
+ nfdt        =  1.410064084957811E-003
+ 
+ 
+ at ntime=      160752    the dimensional timestep was
+ poldt       =  1.414693065767999E-003
+ 
+ 
+ at ntime=      160755    the dimensional timestep was
+ nfdt        =  1.412708167734957E-003
+ 
+ 
+ at ntime=      160756    the dimensional timestep was
+ poldt       =  1.414400427021641E-003
+ 
+ 
+ at ntime=      167323    the dimensional timestep was
+ nfdt        =  1.449416284247066E-003
+ 
+ 
+ at ntime=      167338    the dimensional timestep was
+ poldt       =  1.448672468557432E-003
+ 
+ 
+ at ntime=      167712    the dimensional timestep was
+ nfdt        =  1.436349298425203E-003
+ 
+ 
+ at ntime=      167716    the dimensional timestep was
+ poldt       =  1.438108837485609E-003
+ 
+ 
+ at ntime=      166001    the dimensional timestep was
+ poldt       =  1.390576662747801E-003
+ 
+ 
+ at ntime=      167323    the dimensional timestep was
+ nfdt        =  1.449416284247066E-003
+ 
+ 
+ at ntime=      167338    the dimensional timestep was
+ poldt       =  1.448672468557432E-003
+ 
+ 
+ at ntime=      167712    the dimensional timestep was
+ nfdt        =  1.436349298425203E-003
+ 
+ 
+ at ntime=      167716    the dimensional timestep was
+ poldt       =  1.438108837485609E-003
+ 
+ 
+ at ntime=      168537    the dimensional timestep was
+ nfdt        =  1.386057480552738E-003
+ 
+ 
+ at ntime=      168587    the dimensional timestep was
+ poldt       =  1.379279155997059E-003
+ 
+ 
+ at ntime=      169606    the dimensional timestep was
+ nfdt        =  1.396553426440336E-003
+ 
+ 
+ at ntime=      169626    the dimensional timestep was
+ poldt       =  1.401505996218345E-003
+ 
+ 
+ at ntime=      177038    the dimensional timestep was
+ nfdt        =  1.444681055073813E-003
+ 
+ 
+ at ntime=      177049    the dimensional timestep was
+ poldt       =  1.448538058792318E-003
+ 
+ 
+ at ntime=      178891    the dimensional timestep was
+ nfdt        =  1.376261718699050E-003
+ 
+ 
+ at ntime=      178923    the dimensional timestep was
+ poldt       =  1.374270265891611E-003
+ 
+ 
+ at ntime=      180001    the dimensional timestep was
+ poldt       =  1.385200836079794E-003
+ 
+ 
+ at ntime=      180001    the dimensional timestep was
+ poldt       =  1.385200836079794E-003
+ 
+ 
+ at ntime=      180001    the dimensional timestep was
+ poldt       =  1.385200836079794E-003
+ 
+ 
+ at ntime=      180001    the dimensional timestep was
+ poldt       =  1.385200836079794E-003
+ 
